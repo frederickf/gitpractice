@@ -1,3 +1,7 @@
 function doSomeStuff() {
     return 'some stuff';
 }
+
+function doSomeThings() {
+    return "some things"
+}
