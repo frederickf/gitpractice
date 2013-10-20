@@ -5,3 +5,7 @@ function doSomeStuff() {
 function doSomeThings() {
     return "some things"
 }
+
+function stuffAndThings() {
+    return doSomeStuff() + doSomeThings();
+}
